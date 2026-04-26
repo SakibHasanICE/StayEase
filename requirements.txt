@@ -11,3 +11,4 @@ psycopg2-binary
 sqlalchemy
 langchain-core
 pydantic-settings
+asyncpg
