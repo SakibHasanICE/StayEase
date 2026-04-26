@@ -1,0 +1,17 @@
+venv/
+.env
+.env/
+__pycache__/
+node_modules/
+.vscode/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+data
+data/
+logs/
+StayEase.egg-info/
+StayEase.egg-info
+logs
