@@ -7,3 +7,7 @@ pydantic
 streamlit
 langgraph
 langchain_core
+psycopg2-binary
+sqlalchemy
+langchain-core
+pydantic-settings
